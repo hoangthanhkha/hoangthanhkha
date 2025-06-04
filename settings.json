@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "channel": "stable",
+  "platform": "win",
+  "arch": "x86",
+  "url": "https://example.com/download/installer.exe"
+}
